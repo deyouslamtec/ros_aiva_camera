@@ -1,0 +1,9 @@
+<library path="lib/libdepthsense_publisher">
+	<class name="depthsense_publisher/depthsense_publisher"
+			type="depthsense_publisher::DepthsensePublisherNodelet"
+			base_class_type="nodelet::Nodelet">
+		<description>
+			depthsense_publisher nodelet to publish multi video stream.
+		</description>
+	</class>
+</library>
